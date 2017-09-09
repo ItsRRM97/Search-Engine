@@ -1,11 +1,39 @@
 <?php
 
+error_reporting(0);
+
 $start = "http://localhost/Search-Engine/test.html"; 
 //contains various types of links our webcrawler will encounter
 
-$already_crawled = array(); //array
+$already_crawled = array();
+$crawling = array();
 
 function get_details($url) {
+
+	$options = array('http'=>array('method'=>"GET", 'headers'=>"User-Agent: Bot/0.1\n")); //creates custom headers
+
+	$context = stream_context_create($options);
+	
+	$doc = new DOMDocument();
+	@$doc->loadHTML(@file_get_contents($url, false, $context));
+
+	$title = $doc->getElementsByTagName("title");
+	$title = $title->item(0)->nodeValue;
+
+	$description = "";
+	$keywords = "";
+	$metas = $doc->getElementsByTagName("meta");
+	for ($i = 0; $i < $metas->length; $i++) {
+		$meta = $metas->item($i);
+
+	if($meta->getAttribute("name") == strtolower("description"))
+		$description = $meta->getAttribute("content");
+	if($meta->getAttribute("name") == strtolower("keywords"))
+		$keywords = $meta->getAttribute("content");
+
+	}
+
+	return '{ "Title": '.$title.'", "Description": "'.str_replace("\n", "", $description).'", "Keywords": "'.$keywords.'", "URL": "'.$url.'"}';
 
 }
 
@@ -13,13 +41,14 @@ function get_details($url) {
 function follow_links($url)  {
 
 	global $already_crawled;
+	global $crawling;
 
 	$options = array('http'=>array('method'=>"GET", 'headers'=>"User-Agent: Bot/0.1\n")); //creates custom headers
 
 	$context = stream_context_create($options);
 	
 	$doc = new DOMDocument();
-	$doc->loadHTML(file_get_contents($url, false, $context));
+	@$doc->loadHTML(@file_get_contents($url, false, $context));
 
 	$linklist = $doc->getElementsByTagName("a");
 
@@ -50,11 +79,17 @@ function follow_links($url)  {
 
 		if(!in_array($l, $already_crawled)) {
 			$already_crawled[] = $l;
-			//echo get_details($l); 
-			echo $l."<br>";
-
+			$crawling[] = $l;
+			echo get_details($l)."<br>"; 
+			
 		}
 
+	}
+
+	array_shift($crawling);
+
+	foreach ($crawling as $site) {
+		follow_links($site);
 	}
 
 }
