@@ -1,7 +1,5 @@
 <?php
 
-error_reporting(0);
-
 $start = "http://localhost/Search-Engine/test.html"; 
 //contains various types of links our webcrawler will encounter
 
@@ -15,7 +13,7 @@ function get_details($url) {
 	$context = stream_context_create($options);
 	
 	$doc = new DOMDocument();
-	@$doc->loadHTML(@file_get_contents($url, false, $context));
+	$doc->loadHTML(file_get_contents($url, false, $context));
 
 	$title = $doc->getElementsByTagName("title");
 	$title = $title->item(0)->nodeValue;
@@ -33,7 +31,7 @@ function get_details($url) {
 
 	}
 
-	return '{ "Title": '.$title.'", "Description": "'.str_replace("\n", "", $description).'", "Keywords": "'.$keywords.'", "URL": "'.$url.'"}';
+	return '{ "Title": "'.str_replace("\n", "", $title).'", "Description": "'.str_replace("\n", "", $description).'", "Keywords": "'.str_replace("\n", "", $keywords).'", "URL": "'.$url.'"},';
 
 }
 
@@ -48,7 +46,7 @@ function follow_links($url)  {
 	$context = stream_context_create($options);
 	
 	$doc = new DOMDocument();
-	@$doc->loadHTML(@file_get_contents($url, false, $context));
+	$doc->loadHTML(file_get_contents($url, false, $context));
 
 	$linklist = $doc->getElementsByTagName("a");
 

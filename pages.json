@@ -1,76 +1,304 @@
-{ "Title": Google", "Description": "", "Keywords": ""}
-{ "Title": ", "Description": "", "Keywords": ""}
-{ "Title": YouTube", "Description": "Share your videos with friends, family, and the world.", "Keywords": ""}
-{ "Title": ", "Description": "", "Keywords": ""}
-{ "Title": ", "Description": "", "Keywords": ""}
-{ "Title": ", "Description": "", "Keywords": ""}
-{ "Title": ", "Description": "", "Keywords": ""}
-{ "Title": ", "Description": "", "Keywords": ""}
-{ "Title": ", "Description": "", "Keywords": ""}
-{ "Title": Google", "Description": "", "Keywords": ""}
-{ "Title": Google Images", "Description": "Google Images. The most comprehensive image search on the web.", "Keywords": ""}
-{ "Title": Google Maps", "Description": "", "Keywords": ""}
-{ "Title": Google Play", "Description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.", "Keywords": ""}
-{ "Title": YouTube", "Description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.", "Keywords": "video, sharing, camera phone, video phone, free, upload"}
-{ "Title": Google News", "Description": "Comprehensive, up-to-date news coverage, aggregated from sources all over the world by Google News.", "Keywords": ""}
-{ "Title": Gmail", "Description": "Gmail is email that's intuitive, efficient, and useful. 15 GB of storage, less spam, and mobile access.", "Keywords": ""}
-{ "Title": Meet Google Drive – One place for all your files", "Description": "Google Drive is a free way to keep your files backed up and easy to reach from any phone, tablet, or computer. Start with 15GB of Google storage – free.", "Keywords": ""}
-{ "Title": Our Products | Google ", "Description": "Browse a comprehensive list of Google products designed to help you work and play, stay organised, get answers, keep in touch, grow your business and more.", "Keywords": ""}
-{ "Title": Google Calendar", "Description": "With Google's free online calendar, it’s easy to keep track of life’s important events all in one place.", "Keywords": ""}
-{ "Title": Google Translate", "Description": "Google's free service instantly translates words, phrases, and web pages between English and over 100 other languages.", "Keywords": "translate, translations, translation, translator, machine translation, online translation"}
-{ "Title": Google Books", "Description": "", "Keywords": ""}
-{ "Title": Blogger.com - Create a unique and beautiful blog. Itâs easy and free.", "Description": "Publish your passions your way. Whether youâd like to share your knowledge, experiences or the latest news, create a unique and beautiful blog for free.", "Keywords": ""}
-{ "Title": Google Photos - All your photos organized and easy to find", "Description": "All your photos are backed up safely, organized and labeled automatically, so you can find them fast, and share them how you like.", "Keywords": ""}
-{ "Title": Google Docs - create and edit documents online, for free. ", "Description": "Create a new document and edit with others at the same time -- from your computer, phone or tablet. Get stuff done with or without an internet connection. Use Docs to edit Word files. Free from Google.", "Keywords": ""}
-{ "Title": Sign in - Google Accounts", "Description": "", "Keywords": ""}
-{ "Title": Preferences", "Description": "", "Keywords": ""}
-{ "Title": Preferences", "Description": "", "Keywords": ""}
-{ "Title": Google - Search Customization ", "Description": "", "Keywords": ""}
-{ "Title": Google Advanced Search", "Description": "", "Keywords": ""}
-{ "Title": Google Translate", "Description": "Google's free service instantly translates words, phrases, and web pages between English and over 100 other languages.", "Keywords": "translate, translations, translation, translator, machine translation, online translation"}
-{ "Title": वरीयताएं", "Description": "", "Keywords": ""}
-{ "Title": পছন্দসমূহ", "Description": "", "Keywords": ""}
-{ "Title": నా ఇష్టాలు", "Description": "", "Keywords": ""}
-{ "Title": प्राधान्ये", "Description": "", "Keywords": ""}
-{ "Title": விருப்பங்கள்", "Description": "", "Keywords": ""}
-{ "Title": પસંદગી", "Description": "", "Keywords": ""}
-{ "Title": ಪ್ರಾಶಸ್ತ್ಯಗಳು", "Description": "", "Keywords": ""}
-{ "Title": മുൻഗണനകൾ", "Description": "", "Keywords": ""}
-{ "Title": ਪਸੰਦ", "Description": "", "Keywords": ""}
-{ "Title": Google Ads - Create Online Ads for Your Business – Google ", "Description": "Find out how Google Ads can help you get your business in front of your customers using display, video, search, and mobile advertising.", "Keywords": ""}
-{ "Title": Business Management Software | Google Business Solutions – Google ", "Description": "Learn about the comprehensive list of service software's Google Business Solutions provides to help with data analysis, advertising, site performance and more.", "Keywords": ""}
-{ "Title": Google India - Google+", "Description": "Google India - Google+", "Keywords": ""}
-{ "Title": About Us | Google ", "Description": "Google’s mission is to organize the world’s information and make it universally accessible and useful. Learn about our company history, products, and more.", "Keywords": ""}
-{ "Title": Google", "Description": "", "Keywords": ""}
-{ "Title": Privacy Policy – Privacy & Terms – Google", "Description": "", "Keywords": ""}
-{ "Title": Google Terms of Service – Privacy & Terms – Google", "Description": "", "Keywords": ""}
-{ "Title": Sign in - Google Accounts", "Description": "", "Keywords": ""}
-{ "Title": वरीयताएं", "Description": "", "Keywords": ""}
-{ "Title": পছন্দসমূহ", "Description": "", "Keywords": ""}
-{ "Title": నా ఇష్టాలు", "Description": "", "Keywords": ""}
-{ "Title": प्राधान्ये", "Description": "", "Keywords": ""}
-{ "Title": விருப்பங்கள்", "Description": "", "Keywords": ""}
-{ "Title": પસંદગી", "Description": "", "Keywords": ""}
-{ "Title": ಪ್ರಾಶಸ್ತ್ಯಗಳು", "Description": "", "Keywords": ""}
-{ "Title": മുൻഗണനകൾ", "Description": "", "Keywords": ""}
-{ "Title": ਪਸੰਦ", "Description": "", "Keywords": ""}
-{ "Title": Google", "Description": "", "Keywords": ""}
-{ "Title": Sign in - Google Accounts", "Description": "", "Keywords": ""}
-{ "Title": वरीयताएं", "Description": "", "Keywords": ""}
-{ "Title": পছন্দসমূহ", "Description": "", "Keywords": ""}
-{ "Title": నా ఇష్టాలు", "Description": "", "Keywords": ""}
-{ "Title": प्राधान्ये", "Description": "", "Keywords": ""}
-{ "Title": விருப்பங்கள்", "Description": "", "Keywords": ""}
-{ "Title": પસંદગી", "Description": "", "Keywords": ""}
-{ "Title": ಪ್ರಾಶಸ್ತ್ಯಗಳು", "Description": "", "Keywords": ""}
-{ "Title": മുൻഗണനകൾ", "Description": "", "Keywords": ""}
-{ "Title": ਪਸੰਦ", "Description": "", "Keywords": ""}
-{ "Title": Google", "Description": "", "Keywords": ""}
-{ "Title": Sign in - Google Accounts", "Description": "", "Keywords": ""}
-{ "Title": वरीयताएं", "Description": "", "Keywords": ""}
-{ "Title": পছন্দসমূহ", "Description": "", "Keywords": ""}
-{ "Title": నా ఇష్టాలు", "Description": "", "Keywords": ""}
-{ "Title": प्राधान्ये", "Description": "", "Keywords": ""}
-{ "Title": விருப்பங்கள்", "Description": "", "Keywords": ""}
-{ "Title": પસંદગી", "Description": "", "Keywords": ""}
-{ "Title": ಪ್ರಾಶಸ್ತ್ಯಗಳು", "Description": "", "Keywords": ""}
+[{ "Title": "Google", "Description": "", "Keywords": "", "URL": "https://google.com"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://localhost/test.php"},
+{ "Title": "YouTube", "Description": "Share your videos with friends, family, and the world.", "Keywords": "", "URL": "http://www.youtube.com/upload"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://localhost/../../anotherpage.php"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://localhost/test/another/../../anotherpage.php"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://localhost/Search-Engine/test.html#anchor"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://www.djfhjfh.com/somepage.php"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://localhost/Search-Engine/mooore.php"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://localhost/even-more.php"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://localhost/roshanraj.in"},
+{ "Title": "Google Accounts", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/signin/usernamerecovery?continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Dredirect_login%26next%3D%252Fupload%26hl%3Den%26action_handle_signin%3Dtrue%26app%3Ddesktop&service=youtube&hl=en"},
+{ "Title": "YouTube", "Description": "Share your videos with friends, family, and the world.", "Keywords": "", "URL": "https://accounts.google.com/AccountChooser?continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Dredirect_login%26next%3D%252Fupload%26hl%3Den%26action_handle_signin%3Dtrue%26app%3Ddesktop&service=youtube&hl=en"},
+{ "Title": " Create your Google Account ", "Description": "A single username and password gets you into everything Google (Gmail, Chrome, YouTube, Google Maps). Set up your profile and preferences just the way you like. Switch between devices, and pick up wherever you left off.", "Keywords": "", "URL": "https://accounts.google.com/SignUpWithoutGmail?service=youtube&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Dredirect_login%26next%3D%252Fupload%26hl%3Den%26action_handle_signin%3Dtrue%26app%3Ddesktop&hl=en"},
+{ "Title": " About Us | Google ", "Description": "Google’s mission is to organize the world’s information and make it universally accessible and useful. Learn about our company history, products, and more.", "Keywords": "", "URL": "https://www.google.com/intl/en/about"},
+{ "Title": "Privacy Policy – Privacy & Terms – Google", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/TOS?loc=IN&hl=en&privacy=true"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/TOS?loc=IN&hl=en"},
+{ "Title": "Google Account Help", "Description": "Official Google Account Help Center where you can find tips and tutorials on using Google Account and other answers to frequently asked questions.", "Keywords": "", "URL": "http://www.google.com/support/accounts?hl=en"},
+{ "Title": "Can't sign in to your Google Account - Google Account Help", "Description": "", "Keywords": "", "URL": "https://support.google.com/accounts/?p=ar_other_problems_username"},
+{ "Title": "Sign in - Google Accounts", "Description": "", "Keywords": "", "URL": "https://myaccount.google.com/"},
+{ "Title": "YouTube", "Description": "Share your videos with friends, family, and the world.", "Keywords": "", "URL": "https://accounts.google.com/AccountChooser?continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Dredirect_login%26next%3D%252Fupload%26hl%3Den%26action_handle_signin%3Dtrue%26app%3Ddesktop&service=youtube&rip=1"},
+{ "Title": " Create your Google Account ", "Description": "A single username and password gets you into everything Google (Gmail, Chrome, YouTube, Google Maps). Set up your profile and preferences just the way you like. Switch between devices, and pick up wherever you left off.", "Keywords": "", "URL": "https://accounts.google.com/SignUpWithoutGmail?service=youtube&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Dredirect_login%26next%3D%252Fupload%26hl%3Den%26action_handle_signin%3Dtrue%26app%3Ddesktop"},
+{ "Title": "YouTube", "Description": "Share your videos with friends, family, and the world.", "Keywords": "", "URL": "https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Dredirect_login%26next%3D%252Fupload%26hl%3Den%26action_handle_signin%3Dtrue%26app%3Ddesktop&service=youtube&dsh=842216325101495613"},
+{ "Title": "Enable JavaScript - Android - Google Help", "Description": "JavaScript is required for many features to work. Follow the instructions below to enable JavaScript. If you're not already there, launch the internet browser app on your device. Tap your", "Keywords": "", "URL": "https://support.google.com/accounts/answer/23852?hl=en"},
+{ "Title": "Sign in - Google Accounts", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/"},
+{ "Title": " Create your Google Account ", "Description": "A single username and password gets you into everything Google (Gmail, Chrome, YouTube, Google Maps). Set up your profile and preferences just the way you like. Switch between devices, and pick up wherever you left off.", "Keywords": "", "URL": "https://accounts.google.com/SignUp?dsh=842216325101495613&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Dredirect_login%26next%3D%252Fupload%26hl%3Den%26action_handle_signin%3Dtrue%26app%3Ddesktop&service=youtube&hl=en"},
+{ "Title": "Google Accounts", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/signin/recovery?continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Dredirect_login%26next%3D%252Fupload%26hl%3Den%26action_handle_signin%3Dtrue%26app%3Ddesktop&service=youtube"},
+{ "Title": "Creating a strong password - Google Account Help", "Description": "To keep your account safe, here are a few tips on how to create a strong password:Use a unique password for each of your important accounts Use a different password for each of your important acc", "Keywords": "", "URL": "https://support.google.com/accounts/answer/32040?hl=en"},
+{ "Title": "Why Google asks for your information when you create an account - Google Account Help", "Description": "A Google Account gives you access to services such as Gmail and YouTube. We ask for some personal information when you create an account in order to keep your account secure and to make our services m", "Keywords": "", "URL": "https://support.google.com/accounts/answer/1733224?hl=en"},
+{ "Title": "Google Account Help", "Description": "Official Google Account Help Center where you can find tips and tutorials on using Google Account and other answers to frequently asked questions.", "Keywords": "", "URL": "https://support.google.com/accounts?hl=en"},
+{ "Title": "Google", "Description": "", "Keywords": "", "URL": "https://www.google.com/intl/en/"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://www.google.com/intl/en/products/"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://www.google.com/intl/en/stories/renewable-energy-is-boosting-economies/"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://www.google.com/intl/en/stories/future-of-anti-pollution-tech/"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://www.google.com/intl/en/stories/making-trash-less-toxic/"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://www.google.com/intl/en/gender-balance-diversity-important-to-machine-learning/"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://www.google.com/intl/en/stories/"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://www.google.com/intl/en/stories/826-valencia-uses-virtual-reality-tilt-brush-to-bring-ideas-to-life/"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://www.google.com/intl/en/values-in-action/celebrate-pride-with-youtube/"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://www.google.com/intl/en/values-in-action/responding-to-world-refugee-crisis/"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://www.google.com/intl/en/main/gender-equality-films/"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://www.google.com/intl/en/values-in-action/streetview-uluru-kata-tjuta-national-park/"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://www.google.com/intl/en/working/teaching-google-assistant-to-talk/"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://www.google.com/intl/en/working/inside-google-seattle-kirkland-offices/"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://www.google.com/intl/en/working/intern/"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://www.google.com/intl/en/working/diversity/"},
+{ "Title": "Bring questions. Build answers. - Google Careers", "Description": "", "Keywords": "Explore careers with Google", "URL": "https://careers.google.com/"},
+{ "Title": "Google", "Description": "", "Keywords": "", "URL": "https://www.google.com/"},
+{ "Title": "Google Trends", "Description": "See the latest trends, data and visualisations from Google. Find out what's trending near you right now.", "Keywords": "", "URL": "https://trends.google.com/trends/"},
+{ "Title": "Google Doodles", "Description": "", "Keywords": "", "URL": "https://www.google.com/doodles"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://www.google.com/intl/en/behind-the-scenes/computer-vision-explained/"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://www.google.com/intl/en/behind-the-scenes/google-earth-imagery/"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://www.google.com/intl/en/behind-the-scenes/journey-to-the-bottom-of-the-internet/"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://www.google.com/intl/en/behind-the-scenes/la-bamba-translate/"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://www.google.com/intl/en/our-story/"},
+{ "Title": " About Us | Google ", "Description": "Google’s mission is to organize the world’s information and make it universally accessible and useful. Learn about our company history, products, and more.", "Keywords": "", "URL": "https://www.google.com/intl/en/about#"},
+{ "Title": "Google - Google+", "Description": "Google - Google+", "Keywords": "", "URL": "https://plus.google.com/+google"},
+{ "Title": "Google (@google) • Instagram photos and videos", "Description": "4.7m Followers, 12 Following, 610 Posts - See Instagram photos and videos from Google (@google)", "Keywords": "", "URL": "https://instagram.com/google/"},
+{ "Title": " Google - YouTube", "Description": "Experience the world of Google on our official YouTube channel. Watch videos about our products, technology, company happenings and more. Subscribe to get up...", "Keywords": "Google Technology Science Android Google app Google drive Gmail Google Maps Nexus Google Doodles Google Zeitgeist", "URL": "https://www.youtube.com/Google"},
+{ "Title": "Google (@Google) | Twitter", "Description": "The latest Tweets from Google (@Google). News and updates from Google. Mountain View, CA", "Keywords": "", "URL": "https://twitter.com/google"},
+{ "Title": "अपना ब्राउसर अपडेट करें | Facebook", "Description": "", "Keywords": "", "URL": "https://www.facebook.com/Google"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://www.linkedin.com/company/google"},
+{ "Title": " Contact us – Google ", "Description": "Ways to contact teams at Google.", "Keywords": "", "URL": "https://www.google.com/contact/"},
+{ "Title": " Alphabet Investor Relations - Investor Relations - Alphabet ", "Description": "Alphabet Inc. is a holding company that gives ambitious projects the resources, freedom, and focus to make their ideas happen — and will be the parent company of Google, Nest, and other ventures. Alphabet supports and develops companies applying technology to the world’s biggest challenges.", "Keywords": "Alphabet, Technology investment, Investment group, Holding company, Parent company, Google, Nest, Calico, Life Sciences, Health, Medical technology, Google X, Google Labs, X Labs, Ventures, Capital, Startups, Technology Innovation, Internet business, Information Technology", "URL": "https://abc.xyz/investor/"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://www.google.com/intl/en/locations/"},
+{ "Title": "The Keyword | Google", "Description": "Discover all the latest about our products, technology, and Google culture on our official blog.", "Keywords": "", "URL": "https://www.blog.google/"},
+{ "Title": "Think with Google - Discover Marketing Research & Digital Trends", "Description": "Uncover the latest marketing research and digital trends with data reports, guides, infographics, and articles from Think with Google.", "Keywords": "", "URL": "https://www.thinkwithgoogle.com/"},
+{ "Title": "Press Corner | The Keyword", "Description": "", "Keywords": "", "URL": "https://www.blog.google/press/"},
+{ "Title": " Blogs and Social Media – News from Google – Google ", "Description": "", "Keywords": "", "URL": "https://www.google.com/press/blog-social-directory.html"},
+{ "Title": " Permissions – Google ", "Description": "", "Keywords": "", "URL": "https://www.google.com/permissions/"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://services.google.com/fb/forms/speakerrequest/"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://www.google.com/intl/en/appsecurity/"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://www.google.com/intl/en/software-principles.html"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://www.google.com/intl/en/unwanted-software-policy.html"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://www.google.com/intl/en/responsible-manufacturing.html"},
+{ "Title": " Conflict Minerals - Investor Relations - Alphabet ", "Description": "Alphabet Inc. is a holding company that gives ambitious projects the resources, freedom, and focus to make their ideas happen — and will be the parent company of Google, Nest, and other ventures. Alphabet supports and develops companies applying technology to the world’s biggest challenges.", "Keywords": "Alphabet, Technology investment, Investment group, Holding company, Parent company, Google, Nest, Calico, Life Sciences, Health, Medical technology, Google X, Google Labs, X Labs, Ventures, Capital, Startups, Technology Innovation, Internet business, Information Technology", "URL": "https://abc.xyz/investor/conflictminerals/"},
+{ "Title": "Google Help", "Description": "", "Keywords": "", "URL": "https://support.google.com?hl=en"},
+{ "Title": "Privacy Policy – Privacy & Terms – Google", "Description": "", "Keywords": "", "URL": "https://www.google.com/policies/privacy/"},
+{ "Title": "Google Terms of Service – Privacy & Terms – Google", "Description": "", "Keywords": "", "URL": "https://www.google.com/policies/terms/"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/"},
+{ "Title": "Google Terms of Service – Privacy & Terms – Google", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/TOS#content"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/terms/"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/technologies/"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/faq/"},
+{ "Title": "Sign in - Google Accounts", "Description": "", "Keywords": "", "URL": "https://myaccount.google.com/?hl=en"},
+{ "Title": "Google Terms of Service – Privacy & Terms – Google", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/TOS#infocollect"},
+{ "Title": "Google Terms of Service – Privacy & Terms – Google", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/TOS#infouse"},
+{ "Title": "Google Terms of Service – Privacy & Terms – Google", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/TOS#infochoices"},
+{ "Title": "Google Terms of Service – Privacy & Terms – Google", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/TOS#infosharing"},
+{ "Title": "Google Terms of Service – Privacy & Terms – Google", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/TOS#access"},
+{ "Title": "Google Terms of Service – Privacy & Terms – Google", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/TOS#nosharing"},
+{ "Title": "Google Terms of Service – Privacy & Terms – Google", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/TOS#infosecurity"},
+{ "Title": "Google Terms of Service – Privacy & Terms – Google", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/TOS#application"},
+{ "Title": "Google Terms of Service – Privacy & Terms – Google", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/TOS#enforcement"},
+{ "Title": "Google Terms of Service – Privacy & Terms – Google", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/TOS#policychanges"},
+{ "Title": "Google Terms of Service – Privacy & Terms – Google", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/TOS#products"},
+{ "Title": "Google Terms of Service – Privacy & Terms – Google", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/TOS#related"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/frameworks/"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/key-terms/"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/partners/"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/archive/"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/intl/en/policies/privacy/google_privacy_policy_en.pdf"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/key-terms/#toc-terms-account"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/example/more-relevant-search-results.html"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/example/connect-with-people.html"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/example/sharing-with-others.html"},
+{ "Title": "Privacy Troubleshooter - Policies Help", "Description": "", "Keywords": "", "URL": "https://support.google.com/policies/troubleshooter/2990837?hl=en"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/example/ads-youll-find-most-useful.html"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/example/the-people-who-matter-most.html"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/key-terms/#toc-terms-personal-info"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/example/credit-card.html"},
+{ "Title": "Edit your Google Account information - Google Account Help", "Description": "Manage information associated with your Google Account.Edit your basic account information You can edit information like your name, birthday, gender, and the email addresses and phone numbers ass", "Keywords": "", "URL": "https://support.google.com/accounts/answer/112783?hl=en"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/example/collect-information.html"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/example/view-and-interact-with-our-ads.html"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/key-terms/#toc-terms-device"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/example/device-specific-information.html"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/key-terms/#toc-terms-unique-device-id"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/example/device-identifiers.html"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/example/phone-number.html"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/key-terms/#toc-terms-server-logs"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/key-terms/#toc-terms-ip"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/example/may-collect-and-process-information.html"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/example/sensors.html"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/example/wifi-access-points-and-cell-towers.html"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/key-terms/#toc-terms-browser-storage"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/key-terms/#toc-terms-application-data-cache"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/example/our-partners.html"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/key-terms/#toc-terms-cookie"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/example/advertising-services.html"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/example/linked-with-information-about-visits-to-multiple-sites.html"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/example/provide-services.html"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/example/maintain-services.html"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/example/protect-services.html"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/example/develop-new-ones.html"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/example/protect-google-and-our-users.html"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/example/limit-sharing-or-visibility-settings.html"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/key-terms/#toc-terms-pixel"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/example/improve-your-user-experience.html"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/key-terms/#toc-terms-sensitive-categories"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/example/combine-personal-information.html"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/example/to-make-it-easier-to-share.html"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/example/your-activity-on-other-sites-and-apps.html"},
+{ "Title": "Sign in - Google Accounts", "Description": "", "Keywords": "", "URL": "https://myaccount.google.com/privacy?hl=en#accounthistory"},
+{ "Title": "Sign in - Google Accounts", "Description": "", "Keywords": "", "URL": "https://myaccount.google.com/privacy?hl=en#toolsyoucanusenow"},
+{ "Title": "Account settings: Your browser is not supported.", "Description": "", "Keywords": "", "URL": "https://www.google.com/dashboard/?hl=en"},
+{ "Title": "Account settings: Your browser is not supported.", "Description": "", "Keywords": "", "URL": "https://www.google.com/settings/ads/preferences?hl=en"},
+{ "Title": "See and edit your Google+ profile - Computer - Google+ Help", "Description": "Your Google+ profile includes posts you've made on Google+, Collections you've created or followed, and Communities youâve joined. You can also add a cover photo, a profile photo, and a tagline", "Keywords": "", "URL": "https://support.google.com/plus/answer/1355890?hl=en"},
+{ "Title": "Google+ Help", "Description": "Official Google+ Help Center where you can find tips and tutorials on using Google+ and other answers to frequently asked questions.", "Keywords": "", "URL": "https://support.google.com/plus/bin/static.py?hl=en&page=guide.cs&guide=1257347"},
+{ "Title": "Download your data - Google Account Help", "Description": "You can export and download your data from the Google products you use, like your email, calendar, and photos. In a few easy steps, create an archive to keep for your records or use the data in anothe", "Keywords": "", "URL": "https://www.dataliberation.org/"},
+{ "Title": "Sign in - Google Accounts", "Description": "", "Keywords": "", "URL": "https://plus.google.com/settings/endorsements?hl=en"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/example/may-not-function-properly.html"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/example/sharing.html"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/example/removing-your-content.html"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/example/access-to-your-personal-information.html"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/key-terms/#toc-terms-sensitive-info"},
+{ "Title": "Who is my administrator? - G Suite Administrator Help", "Description": "Quick definition: A person who manages Google services or devices for a company, school, or group.", "Keywords": "", "URL": "https://support.google.com/a/answer/178897?hl=en"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/example/legal-process.html"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/key-terms/#toc-terms-affiliates"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/example/we-may-share.html"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/key-terms/#toc-terms-info"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/privacy/example/to-show-trends.html"},
+{ "Title": "SSL Search - Google Search Help", "Description": "You get a more secure and private search experience with Secure Sockets Layer (SSL). When you search on Google, you use SSL.How SSL helps protect your dataSSL encrypts the connection bet", "Keywords": "", "URL": "https://support.google.com/websearch/answer/173733?hl=en"},
+{ "Title": " Google 2-Step Verification ", "Description": "", "Keywords": "", "URL": "https://www.google.com/intl/en/landing/2step/"},
+{ "Title": " Chrome Browser Features ", "Description": "Explore the features that make Chrome an amazing browser to experience the web.", "Keywords": "", "URL": "https://www.google.com/chrome/intl/en/more/security.html"},
+{ "Title": " Chrome Browser - Privacy Policy ", "Description": "Chrome takes your privacy very seriously. Here's everything you need to know about your privacy while browsing the web on Chrome.", "Keywords": "", "URL": "https://www.google.com/chrome/intl/en/privacy.html"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://play.google.com/books/intl/en/privacy.html"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://payments.google.com/legaldocument?family=0.privacynotice&hl=en"},
+{ "Title": "Google Fiber Privacy Notice – Google Fiber ", "Description": "", "Keywords": "", "URL": "https://fiber.google.com/legal/privacy.html"},
+{ "Title": "Terms of Service – Project Fi", "Description": "", "Keywords": "", "URL": "https://fi.google.com/about/tos/#project-fi-privacy-notice"},
+{ "Title": " G Suite सेवा की शर्तें - G Suite ", "Description": "", "Keywords": "", "URL": "https://www.google.com/work/apps/terms/education_privacy.html"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/technologies/product-privacy/"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/technologies/cookies/"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/technologies/ads/"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/technologies/pattern-recognition/"},
+{ "Title": "Sign in - Google Accounts", "Description": "", "Keywords": "", "URL": "https://myaccount.google.com/privacycheckup/1?hl=en"},
+{ "Title": " Safety Center – Google ", "Description": "", "Keywords": "", "URL": "https://www.google.com/intl/en/safetycenter/"},
+{ "Title": "Delete searches & other activity from your account - Computer - Google Search Help", "Description": "You can delete past searches, browsing history, and other activity from your Google Account. You're in control of what's stored in My Activity, and you can stop saving most activity at any time.Lear", "Keywords": "", "URL": "https://support.google.com/websearch/answer/465?hl=en"},
+{ "Title": "Back up, import, or delete your blog - Blogger Help", "Description": "You can back up your blog content and import it to another blog. You can also back up your blog before deleting it.Back up your blogWhen you back up your blog, you get an .xml file of th", "Keywords": "", "URL": "https://support.google.com/blogger/answer/41387?hl=en"},
+{ "Title": "Delete or restore your site - Sites Help", "Description": "You can delete any Google Site you own. If you delete a website by mistake, you have 30 days to restore it.Note: This article is for the classic Google Sites (no âPublishâ button at the top righ", "Keywords": "", "URL": "https://support.google.com/sites/answer/90598?hl=en"},
+{ "Title": "Delete or hide your YouTube channel - YouTube Help", "Description": "There are two versions of the YouTube desktop experience, the current version and the old version. Follow the instructions for the experience you have.You ca", "Keywords": "", "URL": "https://support.google.com/youtube/answer/55759?hl=en"},
+{ "Title": "Delete your Google+ profile - Google+ Help", "Description": "You can delete your Google+ profile any time by going to http://plus.google.com/downgrade, signing in, and following the instructions on that page. If you see an upgrade page, you don't have a Google+", "Keywords": "", "URL": "https://support.google.com/plus/answer/1044503?hl=en"},
+{ "Title": "Delete your Google Account - Google Account Help", "Description": "Deleting your Google Account affects all data associated with that account and any services you use, like Gmail, Google Play, or YouTube.You can delete your Google Account at any time, but you may n", "Keywords": "", "URL": "https://support.google.com/accounts/answer/32046?hl=en"},
+{ "Title": "Google Trends", "Description": "See the latest trends, data and visualizations from Google. Find out what's trending near you right now.", "Keywords": "", "URL": "https://www.google.com/trends/?hl=en"},
+{ "Title": " Trending - YouTube", "Description": "The pulse of what's trending on YouTube. Check out the latest music videos, trailers, comedy clips, and everything else that people are watching right now.", "Keywords": "video, sharing, camera phone, video phone, free, upload", "URL": "https://www.youtube.com/trending"},
+{ "Title": "Google Privacy | Why data protection matters", "Description": "Your data privacy matters. Learn how Google keeps your personal information private and safe – and puts you in control.", "Keywords": "", "URL": "https://privacy.google.com/?hl=en"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/technologies/location-data/"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/technologies/wallet/"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../policies/technologies/voice/"},
+{ "Title": "Sign in - Google Accounts", "Description": "", "Keywords": "", "URL": "https://myaccount.google.com?hl=en"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/../../safetycenter/families/start/"},
+{ "Title": "Google Privacy | Why data protection matters", "Description": "Your data privacy matters. Learn how Google keeps your personal information private and safe – and puts you in control.", "Keywords": "", "URL": "https://privacy.google.com?hl=en"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/intl/en/about/"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/intl/en/policies/privacy/"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/intl/en/policies/terms/"},
+{ "Title": "Google", "Description": "", "Keywords": "", "URL": "http://www.google.com/"},
+{ "Title": " Our Products | Google ", "Description": "Browse a comprehensive list of Google products designed to help you work and play, stay organized, get answers, keep in touch, grow your business, and more.", "Keywords": "", "URL": "https://www.google.com/intl/en/options/"},
+{ "Title": "Sign in - Google Accounts", "Description": "", "Keywords": "", "URL": "https://myaccount.google.com/?utm_source=OGB&utm_medium=app"},
+{ "Title": "Google", "Description": "", "Keywords": "", "URL": "https://www.google.com/webhp"},
+{ "Title": "Google Maps", "Description": "", "Keywords": "", "URL": "https://maps.google.com/maps?hl=en"},
+{ "Title": "YouTube", "Description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.", "Keywords": "video, sharing, camera phone, video phone, free, upload", "URL": "https://www.youtube.com/?gl=US"},
+{ "Title": "Google Play", "Description": "Enjoy millions of the latest Android apps, games, music, movies, TV, books, magazines & more. Anytime, anywhere, across your devices.", "Keywords": "", "URL": "https://play.google.com/?hl=en"},
+{ "Title": "Google News", "Description": "Comprehensive up-to-date news coverage, aggregated from sources all over the world by Google News.", "Keywords": "", "URL": "https://news.google.com/nwshp?hl=en"},
+{ "Title": "Gmail", "Description": "Gmail is email that's intuitive, efficient, and useful. 15 GB of storage, less spam, and mobile access.", "Keywords": "", "URL": "https://mail.google.com/mail/"},
+{ "Title": "Meet Google Drive – One place for all your files", "Description": "Google Drive is a free way to keep your files backed up and easy to reach from any phone, tablet, or computer. Start with 15GB of Google storage – free.", "Keywords": "", "URL": "https://drive.google.com/"},
+{ "Title": "Google Calendar", "Description": "With Google's free online calendar, it’s easy to keep track of life’s important events all in one place.", "Keywords": "", "URL": "https://www.google.com/calendar"},
+{ "Title": "Google Translate", "Description": "Google's free service instantly translates words, phrases, and web pages between English and over 100 other languages.", "Keywords": "translate, translations, translation, translator, machine translation, online translation", "URL": "https://translate.google.com/?hl=en"},
+{ "Title": "Google Photos - All your photos organized and easy to find", "Description": "All your photos are backed up safely, organized and labeled automatically, so you can find them fast, and share them how you like.", "Keywords": "", "URL": "https://photos.google.com/?pageId=none"},
+{ "Title": "Google Shopping", "Description": "", "Keywords": "", "URL": "http://www.google.com/shopping?hl=en"},
+{ "Title": "Google Wallet", "Description": "The fast, easy, and free way to send money to friends and family.", "Keywords": "", "URL": "https://wallet.google.com/"},
+{ "Title": "Google Finance: Stock market quotes, news, currency conversions & more", "Description": "", "Keywords": "", "URL": "https://www.google.com/finance"},
+{ "Title": " Google Docs - create and edit documents online, for free. ", "Description": "Create a new document and edit with others at the same time -- from your computer, phone or tablet. Get stuff done with or without an internet connection. Use Docs to edit Word files. Free from Google.", "Keywords": "", "URL": "https://docs.google.com/document/?usp=docs_alc"},
+{ "Title": "Google Books", "Description": "", "Keywords": "", "URL": "https://books.google.com/bkshp?hl=en"},
+{ "Title": "Blogger.com - Create a unique and beautiful blog. Itâs easy and free.", "Description": "Publish your passions your way. Whether youâd like to share your knowledge, experiences or the latest news, create a unique and beautiful blog for free.", "Keywords": "", "URL": "https://www.blogger.com/"},
+{ "Title": "Google Contacts", "Description": "Google Contacts is your online address book, integrated with Gmail, Calendar, Drive, and other Google products. Sync your contacts to all your devices and access them everywhere.", "Keywords": "", "URL": "https://www.google.com/contacts/?hl=en"},
+{ "Title": "Google Hangouts", "Description": "Hangouts bring conversations to life with photos, emoji and even group video calls â free. Connect with friends across computers, Android and Apple devices.", "Keywords": "", "URL": "https://hangouts.google.com/"},
+{ "Title": "Sign in - Google Accounts", "Description": "", "Keywords": "", "URL": "https://keep.google.com/"},
+{ "Title": "Sign in - Google Accounts", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://support.google.com/accounts/%3Fhl%3Den"},
+{ "Title": "Sign in - Google Accounts", "Description": "", "Keywords": "", "URL": "http://myaccount.google.com/"},
+{ "Title": "Privacy Policy – Privacy & Terms – Google", "Description": "", "Keywords": "", "URL": "http://www.google.com/intl/en/privacy.html"},
+{ "Title": "Google Terms of Service – Privacy & Terms – Google", "Description": "", "Keywords": "", "URL": "https://www.google.com/accounts/TOS"},
+{ "Title": "Sign in - Google Accounts", "Description": "", "Keywords": "", "URL": "http://www.google.com/accounts"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://www.google.com/accounts/answer/27441?hl=en&ref_topic=3382296"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://www.google.com/accounts/answer/32040?hl=en&ref_topic=3382296"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://www.google.com/accounts/answer/114129?hl=en&ref_topic=3382296"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://www.google.com/accounts/answer/6304920?hl=en&ref_topic=3382296"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://www.google.com/accounts/answer/58585?hl=en&ref_topic=3382296"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://www.google.com/accounts/answer/3265955?hl=en&ref_topic=3382296"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://www.google.com/accounts/answer/3118687?hl=en&ref_topic=3382296"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://www.google.com/accounts/answer/183723?hl=en&ref_topic=3382296"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://www.google.com/accounts/answer/61416?hl=en&ref_topic=3382296"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://www.google.com/accounts/troubleshooter/2402620?hl=en&ref_topic=3382296"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://www.google.com/accounts/topic/7189121?hl=en&ref_topic=3382254"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://www.google.com/accounts/topic/7188671?hl=en&ref_topic=3382254"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://www.google.com/accounts/topic/7189122?hl=en&ref_topic=3382254"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://www.google.com/accounts/topic/7189042?hl=en&ref_topic=3382254"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://www.google.com/accounts/answer/3036546?hl=en&ref_topic=3382254"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://www.google.com/accounts/troubleshooter/2402620?hl=en&ref_topic=3382255"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://www.google.com/accounts/answer/7299973?hl=en&ref_topic=3382255"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://www.google.com/accounts/answer/6294825?hl=en&ref_topic=3382255"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://www.google.com/accounts/answer/32046?hl=en&ref_topic=3382255"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://www.google.com/accounts/answer/6236295?hl=en&ref_topic=3382255"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://www.google.com/accounts/answer/41078?hl=en&ref_topic=3382255"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://www.google.com/accounts/troubleshooter/3178296?hl=en&ref_topic=3382255"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://www.google.com/accounts/topic/7189123?hl=en&ref_topic=3382253"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://www.google.com/accounts/topic/7189195?hl=en&ref_topic=3382253"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://www.google.com/accounts/topic/7188673?hl=en&ref_topic=3382253"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://www.google.com/accounts/topic/7188760?hl=en&ref_topic=3382253"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://www.google.com/accounts/answer/463?hl=en&ref_topic=6152259"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://www.google.com/accounts/answer/3118621?hl=en&ref_topic=6152259"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://www.google.com/accounts/answer/32047?hl=en&ref_topic=6152259"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://www.google.com/accounts/topic/7188761?hl=en&ref_topic=6152259"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://www.google.com/accounts/topic/7188674?hl=en&ref_topic=6152259"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://www.google.com/accounts/topic/7189720?hl=en&ref_topic=6152259"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://www.google.com/accounts/answer/6098255?hl=en&ref_topic=6152259"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://www.google.com/accounts/topic/7189049?hl=en&ref_topic=3382297"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://www.google.com/accounts/topic/2400093?hl=en&ref_topic=3382297"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://www.google.com/accounts/answer/1350409?hl=en&ref_topic=7189311"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://www.google.com/accounts/topic/7189242?hl=en&ref_topic=7189311"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://www.google.com/accounts/answer/2736362?hl=en&ref_topic=7189311"},
+{ "Title": "", "Description": "", "Keywords": "", "URL": "http://www.google.com/accounts/answer/1728595?hl=en&ref_topic=7189311"},
+{ "Title": " Google 2-Step Verification ", "Description": "", "Keywords": "", "URL": "http://www.google.com/landing/2step"},
+{ "Title": " Manage your privacy and security – For everyone – Safety Center – Google ", "Description": "", "Keywords": "", "URL": "http://www.google.com/goodtoknow/online-safety/"},
+{ "Title": "Google Help", "Description": "", "Keywords": "", "URL": "https://support.google.com/"},
+{ "Title": "Sign in - Google Accounts", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://support.google.com/accounts/troubleshooter/2402620%3Fvisit_id%3D0-636406437935589583-258594970%26p%3Dar_other_problems_username%26rd%3D1"},
+{ "Title": "Privacy Policy – Privacy & Terms – Google", "Description": "", "Keywords": "", "URL": "https://www.google.com/intl/en/privacy.html"},
+{ "Title": "Google Account Help", "Description": "Official Google Account Help Center where you can find tips and tutorials on using Google Account and other answers to frequently asked questions.", "Keywords": "", "URL": "https://support.google.com/accounts"},
+{ "Title": "Google Accounts", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/signin/usernamerecovery?continue=https%3A%2F%2Fmyaccount.google.com%2Fgeneral-light&osid=1&hl=en"},
+{ "Title": "Sign in - Google Accounts", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/AccountChooser?continue=https%3A%2F%2Fmyaccount.google.com%2Fgeneral-light&followup=https%3A%2F%2Fmyaccount.google.com%2Fgeneral-light&osid=1"},
+{ "Title": " Create your Google Account ", "Description": "A single username and password gets you into everything Google (Gmail, Chrome, YouTube, Google Maps). Set up your profile and preferences just the way you like. Switch between devices, and pick up wherever you left off.", "Keywords": "", "URL": "https://accounts.google.com/SignUp?continue=https%3A%2F%2Fmyaccount.google.com%2Fgeneral-light"},
+{ "Title": "YouTube", "Description": "Share your videos with friends, family, and the world.", "Keywords": "", "URL": "https://accounts.google.com/ServiceLogin?continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Dredirect_login%26next%3D%252Fupload%26hl%3Den%26action_handle_signin%3Dtrue%26app%3Ddesktop&service=youtube&dsh=7881941029065816303"},
+{ "Title": " Create your Google Account ", "Description": "A single username and password gets you into everything Google (Gmail, Chrome, YouTube, Google Maps). Set up your profile and preferences just the way you like. Switch between devices, and pick up wherever you left off.", "Keywords": "", "URL": "https://accounts.google.com/SignUp?dsh=7881941029065816303&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Dredirect_login%26next%3D%252Fupload%26hl%3Den%26action_handle_signin%3Dtrue%26app%3Ddesktop&service=youtube"},
+{ "Title": "YouTube", "Description": "Share your videos with friends, family, and the world.", "Keywords": "", "URL": "https://accounts.google.com/AccountChooser?continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Dredirect_login%26next%3D%252Fupload%26hl%3Den%26action_handle_signin%3Dtrue%26app%3Ddesktop&service=youtube&dsh=842216325101495613"},
+{ "Title": "Sign in - Google Accounts", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://support.google.com/answer/23852%3Fvisit_id%3D0-636406438171867819-3648193173%26hl%3Den%26rd%3D3"},
+{ "Title": "Google", "Description": "", "Keywords": "", "URL": "https://google.com/"},
+{ "Title": "Google Help", "Description": "", "Keywords": "", "URL": "https://support.google.com/support_portal"},
+{ "Title": "Enable JavaScript - Android - Google Help", "Description": "JavaScript is required for many features to work. Follow the instructions below to enable JavaScript. If you're not already there, launch the internet browser app on your device. Tap your", "Keywords": "", "URL": "https://support.google.com/answer/23852?visit_id=0-636406438171867819-3648193173&hl=en&rd=3&co=GENIE.Platform%3DAndroid"},
+{ "Title": "Enable JavaScript - Computer - Google Help", "Description": "JavaScript is required for many features to work. Follow the instructions below to enable JavaScript. In the Chrome browser, click the toolbar icon ", "Keywords": "", "URL": "https://support.google.com/answer/23852?visit_id=0-636406438171867819-3648193173&hl=en&rd=3&co=GENIE.Platform%3DDesktop"},
+{ "Title": "Enable JavaScript - iPhone & iPad - Google Help", "Description": "JavaScript is required for many features to work. Follow the instructions below to enable JavaScript. On your device's home screen, tap Settings. Tap Safari", "Keywords": "", "URL": "https://support.google.com/answer/23852?visit_id=0-636406438171867819-3648193173&hl=en&rd=3&co=GENIE.Platform%3DiOS"},
+{ "Title": "Google Accounts", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/signin/usernamerecovery?continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&hl=en"},
+{ "Title": "Sign in - Google Accounts", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/AccountChooser?continue=https%3A%2F%2Faccounts.google.com%2FManageAccount&followup=https%3A%2F%2Faccounts.google.com%2FManageAccount"},
+{ "Title": " Create your Google Account ", "Description": "A single username and password gets you into everything Google (Gmail, Chrome, YouTube, Google Maps). Set up your profile and preferences just the way you like. Switch between devices, and pick up wherever you left off.", "Keywords": "", "URL": "https://accounts.google.com/SignUp?continue=https%3A%2F%2Faccounts.google.com%2FManageAccount"},
+{ "Title": " Create your Google Account ", "Description": "A single username and password gets you into everything Google (Gmail, Chrome, YouTube, Google Maps). Set up your profile and preferences just the way you like. Switch between devices, and pick up wherever you left off.", "Keywords": "", "URL": "https://accounts.google.com/SignUpWithoutGmail?dsh=842216325101495613&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Ffeature%3Dredirect_login%26next%3D%252Fupload%26hl%3Den%26action_handle_signin%3Dtrue%26app%3Ddesktop&service=youtube&hl=en"},
+{ "Title": "Can't sign in to your Google Account - Google Account Help", "Description": "", "Keywords": "", "URL": "https://support.google.com/accounts/?p=ar_other_problems_generic"},
+{ "Title": "Sign in - Google Accounts", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://support.google.com/accounts/answer/32040%3Fhl%3Den"},
+{ "Title": "Set up a recovery phone number or email address - Google Account Help", "Description": "Losing access to your emails, documents, and photos can be frustrating. To make sure you can get back into your account quickly, easily, and securely in the future, add account recovery options.You", "Keywords": "", "URL": "https://support.google.com/accounts/answer/183723"},
+{ "Title": "Make your account more secure - Google Account Help", "Description": "At Google, we take account security very seriously. To protect your account, we strongly recommend following the steps below regularly, especially if you notice changes to your account that you didn ", "Keywords": "", "URL": "https://support.google.com/accounts/answer/46526"},
+{ "Title": "Recent activity - Google Account Help", "Description": "", "Keywords": "", "URL": "https://support.google.com/accounts/topic/3160993?hl=en&ref_topic=2864354"},
+{ "Title": "Set up a recovery phone number or email address - Google Account Help", "Description": "Losing access to your emails, documents, and photos can be frustrating. To make sure you can get back into your account quickly, easily, and securely in the future, add account recovery options.You", "Keywords": "", "URL": "https://support.google.com/accounts/answer/183723?hl=en&ref_topic=3160993"},
+{ "Title": "Make your account more secure - Google Account Help", "Description": "At Google, we take account security very seriously. To protect your account, we strongly recommend following the steps below regularly, especially if you notice changes to your account that you didn ", "Keywords": "", "URL": "https://support.google.com/accounts/answer/46526?hl=en&ref_topic=3160993"},
+{ "Title": "Sign in - Google Accounts", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://support.google.com/accounts/answer/1733224%3Fhl%3Den"},
+{ "Title": "Privacy & Terms – Google", "Description": "", "Keywords": "", "URL": "https://www.google.com/policies/"},
+{ "Title": "Creating a strong password - Google Account Help", "Description": "To keep your account safe, here are a few tips on how to create a strong password:Use a unique password for each of your important accounts Use a different password for each of your important acc", "Keywords": "", "URL": "https://support.google.com/accounts/answer/32040"},
+{ "Title": "Age requirements on Google Accounts - Google Account Help", "Description": "Below are the minimum age requirements to own a Google Account: United States: 13 or older, except for Google Accounts created in Family Link for kids under 13 Spain: 14 or older", "Keywords": "", "URL": "https://support.google.com/accounts/answer/1350409"},
+{ "Title": "Edit your Google Account information - Google Account Help", "Description": "Manage information associated with your Google Account.Edit your basic account information You can edit information like your name, birthday, gender, and the email addresses and phone numbers ass", "Keywords": "", "URL": "https://support.google.com/accounts/answer/27442#1#gender"},
+{ "Title": "Account settings: Your browser is not supported.", "Description": "", "Keywords": "", "URL": "https://myaccount.google.com/phone"},
+{ "Title": "Sign in - Google Accounts", "Description": "", "Keywords": "", "URL": "https://myaccount.google.com/email"},
+{ "Title": "Sign in - Google Accounts", "Description": "", "Keywords": "", "URL": "https://aboutme.google.com/"},
+{ "Title": "Sign in - Google Accounts", "Description": "", "Keywords": "", "URL": "https://accounts.google.com/ServiceLogin?hl=en&passive=true&continue=https://support.google.com/accounts%3Fhl%3Den"},
+{ "Title": "Create a Google Account - Google Account Help", "Description": "You can sign up for a Google Account to use Gmail, Google+, YouTube, and other Google products that use the same username and password.Make a new accountTo set up a Google Account, go to the", "Keywords": "", "URL": "https://support.google.com/accounts/answer/27441?hl=en&ref_topic=3382296"},
+{ "Title": "Creating a strong password - Google Account Help", "Description": "To keep your account safe, here are a few tips on how to create a strong password:Use a unique password for each of your important accounts Use a different password for each of your important acc", "Keywords": "", "URL": "https://support.google.com/accounts/answer/32040?hl=en&ref_topic=3382296"},
+{ "Title": "Verify your account - Google Account Help", "Description": "Note for G Suite users: In an effort to protect our users and combat abuse of our systems, we sometimes ask admins to verify their identity via SMS or a phone call before they're able to complete", "Keywords": "", "URL": "https://support.google.com/accounts/answer/114129?hl=en&ref_topic=3382296"},
+{ "Title": "Control what others see about you across Google services - Google Account Help", "Description": "You can change what other users of Google products see about you. For instance, when you connect with people on apps like Gmail or Hangouts, you can choose to share certain additional information with", "Keywords": "", "URL": "https://support.google.com/accounts/answer/6304920?hl=en&ref_topic=3382296"},
+{ "Title": "Someone changed your password - Google Account Help", "Description": "If you think someone else knows or has changed your password, reset it by entering your username on the password-assistance page. For Google Accounts without Gmail, enter the full email address yo", "Keywords": "", "URL": "https://support.google.com/accounts/answer/58585?hl=en&ref_topic=3382296"},
+{ "Title": "Be ready to find a lost Android device - Google Account Help", "Description": "To be prepared in case you lose your Android phone, tablet, or Wear watch, you can check that Find My Device can find it.If your device is already lost, learn how to find, lock, or erase it.Note:&", "Keywords": "", "URL": "https://support.google.com/accounts/answer/3265955?hl=en&ref_topic=3382296"}]
