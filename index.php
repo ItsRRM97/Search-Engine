@@ -3,6 +3,18 @@
 $start = "http://localhost/Search-Engine/test.html"; 
 //contains various types of links our webcrawler will encounter
 
+error_reporting(0); //hides all warning and notices
+
+//using PDO because they prevent SQL Injection
+try {
+		$pdo= new PDO('mysql:host=127.0.0.1;dbname=Search','root','');
+		$pdo->setAttribute(PDO::ATTR_ERRMODE,PDO::ERRMODE_EXCEPTION);
+		echo "Connected Successfully\n";
+		}
+catch (PDOException $e) {
+			echo "Connection Failed: ".$e->getMessage()."\n";
+		}
+
 $already_crawled = array();
 $crawling = array();
 
@@ -13,7 +25,7 @@ function get_details($url) {
 	$context = stream_context_create($options);
 	
 	$doc = new DOMDocument();
-	$doc->loadHTML(file_get_contents($url, false, $context));
+	@$doc->loadHTML(@file_get_contents($url, false, $context));
 
 	$title = $doc->getElementsByTagName("title");
 	$title = $title->item(0)->nodeValue;
@@ -31,7 +43,7 @@ function get_details($url) {
 
 	}
 
-	return '{ "Title": "'.str_replace("\n", "", $title).'", "Description": "'.str_replace("\n", "", $description).'", "Keywords": "'.str_replace("\n", "", $keywords).'", "URL": "'.$url.'"},';
+	return '{ "Title": "'.str_replace("\n", "", $title).'", "Description": "'.str_replace("\n", "", $description).'", "Keywords": "'.str_replace("\n", "", $keywords).'", "URL": "'.$url.'"}';
 
 }
 
@@ -40,13 +52,14 @@ function follow_links($url)  {
 
 	global $already_crawled;
 	global $crawling;
+	global $pdo;
 
 	$options = array('http'=>array('method'=>"GET", 'headers'=>"User-Agent: Bot/0.1\n")); //creates custom headers
 
 	$context = stream_context_create($options);
 	
 	$doc = new DOMDocument();
-	$doc->loadHTML(file_get_contents($url, false, $context));
+	@$doc->loadHTML(@file_get_contents($url, false, $context));
 
 	$linklist = $doc->getElementsByTagName("a");
 
@@ -78,8 +91,31 @@ function follow_links($url)  {
 		if(!in_array($l, $already_crawled)) {
 			$already_crawled[] = $l;
 			$crawling[] = $l;
-			echo get_details($l)."<br>"; 
+
+			$details = json_decode(get_details($l));
 			
+			echo $details->URL." ";
+
+			//echo md5($details->URL);
+			
+			$rows = $pdo->query("SELECT * FROM `index` WHERE url_hash='".md5($details->URL)."'");
+			$rows = $rows->fetchColumn();
+
+			$params = array (':title' => $details->Title, ':description' => $details->Description, ':keywords' => $details->Keywords, ':url' => $details->URL, ':url_hash' => md5($details->URL));
+
+			if ($rows > 0) {
+				echo "UPDATE"."\n";
+			} else {
+				echo "\n";
+				if(!is_null($params[':title']) && !is_null($params[':description']) && $params[':title'] != '') {
+
+				$result = $pdo->prepare("INSERT INTO `index` VALUES ('', :title, :description, :keywords, :url, :url_hash)");
+				$result = $result->execute($params);
+
+				}
+			}
+			//echo get_details($l)."\n";
+
 		}
 
 	}
@@ -87,7 +123,7 @@ function follow_links($url)  {
 	array_shift($crawling);
 
 	foreach ($crawling as $site) {
-		follow_links($site);
+	follow_links($site);
 	}
 
 }
